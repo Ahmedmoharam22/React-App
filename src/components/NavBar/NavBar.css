@@ -1,0 +1,14 @@
+nav {
+  background-color: #0b5ed7 !important;
+  padding: 15px 0;
+}
+.logo img {
+  width: 110px;
+}
+.nav__link {
+  color: #fff !important;
+  font-weight: 500;
+}
+.nav__link.active {
+  border-bottom: 2px solid black;
+}

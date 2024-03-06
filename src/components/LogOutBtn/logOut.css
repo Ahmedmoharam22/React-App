@@ -1,0 +1,10 @@
+/* button {
+  background-color: transparent !important;
+  border: 0;
+  outline: 0;
+} */
+.logOutbtn {
+  /* background-color: #fff; */
+  color: #fff;
+  font-weight: 500;
+}
